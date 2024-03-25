@@ -6,7 +6,7 @@
 
 <br><br>
 <pre>
-                                    Oi! Me chamo Laís, sou graduanda em Ciências da Computação 
+                                    Oi! Me chamo Laís, sou graduada em Ciências da Computação 
                                             Potterhead 💚 • Bookstan 📚 • Gamer 🎮
 </pre>
 <br><br>
