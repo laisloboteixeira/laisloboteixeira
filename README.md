@@ -6,7 +6,7 @@
 
 <br><br>
 <pre>
-                                    Oi! Me chamo Laís, sou graduada em Ciências da Computação 
+                                    Hi! My name is Laís, and I have a Bachelor's degree in Computer Science.
                                             Potterhead 💚 • Bookstan 📚 • Gamer 🎮
 </pre>
 <br><br>
