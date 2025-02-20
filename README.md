@@ -6,8 +6,8 @@
 
 <br><br>
 <pre>
-                                    Hi! My name is Laís, and I have a Bachelor's degree in Computer Science.
-                                            Potterhead 💚 • Bookstan 📚 • Gamer 🎮
+                                  ✨ Hello! My name is Laís and I have a degree in Computer Science ✨
+                                ✨ I am currently doing a postgraduate degree in Machine Learning Engineering ✨
 </pre>
 <br><br>
 
