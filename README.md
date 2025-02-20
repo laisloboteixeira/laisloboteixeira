@@ -6,7 +6,7 @@
 
 <br><br>
 <pre>
-                                    Hello! My name is Laís and I have a degree in Computer Science
+                                      Hello! My name is Laís and I have a degree in Computer Science
                                   I am currently doing a postgraduate degree in Machine Learning Engineering
 </pre>
 <br><br>
