@@ -10,7 +10,7 @@
 
 <p align="center">
   Hello! My name is Laís and I have a degree in Computer Science<br>
-  I am currently doing a postgraduate degree in Machine Learning Engineering
+  and a postgraduate degree in Machine Learning Engineering.
 </p>
 
 <br><br>
