@@ -10,7 +10,7 @@
 
 <p align="center">
   Hello! My name is Laís and I have a degree in Computer Science<br>
-  and a postgraduate degree in Machine Learning Engineering.
+  and an MBA specialization in Machine Learning Engineering.
 </p>
 
 <br><br>
@@ -40,7 +40,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F7E0EDFF&height=120&section=footer"/>
 
 <div align="center"> 
-  <a href="https://instagram.com/laisnoronhat" target="_blank">
+  <a href="https://instagram.com/laislobot" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/laisloboteixeira/" target="_blank">
