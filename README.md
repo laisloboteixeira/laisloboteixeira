@@ -9,8 +9,8 @@
 <br><br>
 
 <p align="center">
-  Hello! My name is Laís and I have a degree in Computer Science<br>
-  and an MBA specialization in Machine Learning Engineering.
+  Hello! My name is Laís. I have a Bachelor’s degree in Computer Science<br>
+  and an MBA in Machine Learning Engineering.
 </p>
 
 <br><br>
